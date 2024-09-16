@@ -21,7 +21,7 @@
 <br>
 
 ## 🌱 Wants
-<img alt="my skills" src="https://skillicons.dev/icons?theme=dark&perline=7&i=ruby,rails,redis,docker,kubernetes,ansible,terraform,aws,githubactions,postman" />
+<img alt="my skills" src="https://skillicons.dev/icons?theme=dark&perline=7&i=go,ruby,rails,redis,docker,kubernetes,ansible,terraform,aws,githubactions,postman" />
 <br>
 
 <!-- 4. GitHub usernameを変更, 2箇所 -->
