@@ -17,11 +17,11 @@
 <!-- ライトモート：theme=light, ダークモート：theme=dark -->
 <!-- アイコンの選択肢一覧：https://arc.net/l/quote/zizyykfh -->
 ## 😊 Skills
-<img alt="my skills" src="https://skillicons.dev/icons?theme=dark&perline=7&i=html,css,js,ts,react,next,figma,tailwind,materialui,python,firebase,supabase,git,github" />
+![My Skills](https://go-skill-icons.vercel.app/api/icons?i=html,css,js,ts,react,next,figma,tailwind,materialui,python,firebase,supabase,git,github&theme=dark&perline=7)
 <br>
 
 ## 🌱 Wants
-<img alt="my skills" src="https://skillicons.dev/icons?theme=dark&perline=7&i=go,ruby,rails,elixir,redis,docker,kubernetes,ansible,terraform,aws,githubactions,postman" />
+![My Skills](https://go-skill-icons.vercel.app/api/icons?i=go,ruby,rails,elixir,bun,hono,redis,docker,kubernetes,ansible,terraform,aws,githubactions,postman&theme=dark&perline=7)
 <br>
 
 <!-- 4. GitHub usernameを変更, 2箇所 -->
