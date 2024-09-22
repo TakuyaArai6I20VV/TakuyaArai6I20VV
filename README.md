@@ -16,12 +16,16 @@
 <!-- 3. 好きな技術スタックに変更 -->
 <!-- ライトモート：theme=light, ダークモート：theme=dark -->
 <!-- アイコンの選択肢一覧：https://arc.net/l/quote/zizyykfh -->
-## 😊 Skills
+## 🛠️ Skills
 ![My Skills](https://go-skill-icons.vercel.app/api/icons?i=html,css,js,ts,react,next,figma,tailwind,materialui,python,firebase,supabase,git,github&theme=dark&perline=7)
 <br>
 
-## 🌱 Wants
-![My Skills](https://go-skill-icons.vercel.app/api/icons?i=go,ruby,rails,elixir,bun,hono,redis,docker,kubernetes,ansible,terraform,aws,githubactions,postman&theme=dark&perline=7)
+## 🌱 Learning
+![My Skills](https://go-skill-icons.vercel.app/api/icons?i=ruby,rails,elixir,hono,terraform,githubactions&theme=dark&perline=7)
+<br>
+
+## 🎯 Wants
+![My Skills](https://go-skill-icons.vercel.app/api/icons?i=go,bun,redis,docker,kubernetes,ansible,aws,postman&theme=dark&perline=7)
 <br>
 
 <!-- 4. GitHub usernameを変更, 2箇所 -->
