@@ -25,7 +25,7 @@
 <br>
 
 ## 🎯 Wants
-![My Skills](https://go-skill-icons.vercel.app/api/icons?i=go,bun,redis,docker,kubernetes,ansible,aws,postman&theme=dark&perline=7)
+![My Skills](https://go-skill-icons.vercel.app/api/icons?i=go,bun,graphql,redis,docker,kubernetes,ansible,aws,postman&theme=dark&perline=7)
 <br>
 
 <!-- 4. GitHub usernameを変更, 2箇所 -->
