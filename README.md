@@ -10,7 +10,7 @@
 ## <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28"> Hi there
 
 - 🧑‍💻 I'm a Uni Student.
-- 🌱 I’m currently learning go!
+- 🌱 I’m currently learning on!
 <br>
 
 <!-- 3. 好きな技術スタックに変更 -->
