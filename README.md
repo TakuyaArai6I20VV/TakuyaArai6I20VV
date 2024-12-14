@@ -21,11 +21,11 @@
 <br>
 
 ## 🌱 Learning
-![My Skills](https://go-skill-icons.vercel.app/api/icons?i=php,laravel&theme=dark&perline=7)
+![My Skills](https://go-skill-icons.vercel.app/api/icons?i=rust,aws,terraform,php,laravel&theme=dark&perline=7)
 <br>
 
 ## 🎯 Interests
-![My Skills](https://go-skill-icons.vercel.app/api/icons?i=go,ruby,rails,elixir,hono,bun,graphql,redis,docker,kubernetes,terraform,githubactions,ansible,aws,postman&theme=dark&perline=7)
+![My Skills](https://go-skill-icons.vercel.app/api/icons?i=go,ruby,rails,elixir,hono,bun,graphql,redis,docker,kubernetes,githubactions,ansible,postman&theme=dark&perline=7)
 <br>
 
 <!-- 4. GitHub usernameを変更, 2箇所 -->
