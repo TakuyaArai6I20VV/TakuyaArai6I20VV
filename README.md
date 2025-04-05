@@ -17,12 +17,12 @@
 <!-- ライトモート：theme=light, ダークモート：theme=dark -->
 <!-- アイコンの選択肢一覧：https://arc.net/l/quote/zizyykfh -->
 ## 🛠️ Skills
-![My Skills](https://go-skill-icons.vercel.app/api/icons?i=html,css,js,ts,react,next,figma,tailwind,materialui,python,firebase,supabase,git,github&theme=dark&perline=7)
+![My Skills](https://go-skill-icons.vercel.app/api/icons?i=html,css,js,ts,react,next,figma,tailwind,materialui,python,firebase,supabase,git,github,linux&theme=dark&perline=7)
 <br>
 
-## 🌱 Learning
-![My Skills](https://go-skill-icons.vercel.app/api/icons?i=linux&theme=dark&perline=7)
-<br>
+<!-- ## 🌱 Learning -->
+<!-- ![My Skills](https://go-skill-icons.vercel.app/api/icons?i=linux&theme=dark&perline=7) -->
+<!-- <br> --> 
 
 ## 🎯 Interests
 ![My Skills](https://go-skill-icons.vercel.app/api/icons?i=go,elixir,hono,bun,redis,docker,kubernetes,aws,terraform,githubactions,ansible&theme=dark&perline=7)
