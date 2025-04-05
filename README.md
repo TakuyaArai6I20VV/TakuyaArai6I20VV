@@ -25,7 +25,7 @@
 <br>
 
 ## 🎯 Interests
-![My Skills](https://go-skill-icons.vercel.app/api/icons?i=go,ruby,rails,elixir,hono,bun,graphql,redis,docker,kubernetes,aws,terraform,githubactions,ansible,postman&theme=dark&perline=7)
+![My Skills](https://go-skill-icons.vercel.app/api/icons?i=go,elixir,hono,bun,redis,docker,kubernetes,aws,terraform,githubactions,ansible&theme=dark&perline=7)
 <br>
 
 <!-- 4. GitHub usernameを変更, 2箇所 -->
